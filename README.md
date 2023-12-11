@@ -1,7 +1,7 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="right">Hi 👋, I'm Subhanshu Mani Tripathi</h1>
-    <div style="display: flex; align-items: center; justify-content: center;"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400px"></div>
+  <div align="center"> <img src = "main/Black Technology Linkedln Banner.png"> </div>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
