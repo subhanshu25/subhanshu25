@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/subhanshu" target="blank"><img src="https://img.shields.io/twitter/follow/subhanshu?logo=twitter&style=for-the-badge" alt="subhanshu" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently exploring MERN
 
 - 💬 Ask me about **Web Development , MERN**
 
 - 📫 How to reach me **subhanshumani48261@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
