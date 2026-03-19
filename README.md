@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanshu25&label=Profile%20views&color=0e75b6&style=flat" alt="subhanshu25" /> </p>
 
-<p align="left"> <a href="https://twitter.com/subhanshu" target="blank"><img src="https://img.shields.io/twitter/follow/subhanshu?logo=twitter&style=for-the-badge" alt="subhanshu" /></a> </p>
 
 - 🌱 I’m currently exploring MERN
 
